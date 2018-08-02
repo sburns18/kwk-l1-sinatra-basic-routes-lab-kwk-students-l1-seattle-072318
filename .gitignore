@@ -1,0 +1,94 @@
+puts "Welcome to Coffee Quest!"
+
+
+
+
+
+
+
+
+def get_coffee_shop(region, food, ambience, beans)
+
+# west
+if region = "west"
+  
+  if food = "good" && ambience = "cozy" && beans = "house roasted"
+    puts "Your coffee shop is ..."
+  if food = "good" && ambience = "modern" && beans = "house roasted"
+     puts "Your coffee shop is ..."
+  if food = "good" && ambience = "cozy" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  if food = "good" && ambience = "modern" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  
+  if food = "bad" && ambience = "cozy" && beans = "house roasted"
+    puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "modern" && beans = "house roasted"
+     puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "cozy" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "modern" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  
+
+# north
+if region = "north"
+
+  if food = "good" && ambience = "cozy" && beans = "house roasted"
+    puts "Your coffee shop is ..."
+  if food = "good" && ambience = "modern" && beans = "house roasted"
+     puts "Your coffee shop is ..."
+  if food = "good" && ambience = "cozy" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  if food = "good" && ambience = "modern" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  
+  if food = "bad" && ambience = "cozy" && beans = "house roasted"
+    puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "modern" && beans = "house roasted"
+     puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "cozy" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "modern" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+    
+if region = "central"
+
+  if food = "good" && ambience = "cozy" && beans = "house roasted"
+    puts "Your coffee shop is ..."
+  if food = "good" && ambience = "modern" && beans = "house roasted"
+     puts "Your coffee shop is ..."
+  if food = "good" && ambience = "cozy" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  if food = "good" && ambience = "modern" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  
+  if food = "bad" && ambience = "cozy" && beans = "house roasted"
+    puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "modern" && beans = "house roasted"
+     puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "cozy" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "modern" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+    
+    
+  if region = "tacoma"
+
+  if food = "good" && ambience = "cozy" && beans = "house roasted"
+    puts "Your coffee shop is ..."
+  if food = "good" && ambience = "modern" && beans = "house roasted"
+     puts "Your coffee shop is ..."
+  if food = "good" && ambience = "cozy" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  if food = "good" && ambience = "modern" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  
+  if food = "bad" && ambience = "cozy" && beans = "house roasted"
+    puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "modern" && beans = "house roasted"
+     puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "cozy" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
+  if food = "bad" && ambience = "modern" && beans = "not house roasted"
+    puts "Your coffee shop is ..."
