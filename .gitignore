@@ -1,12 +1,6 @@
 puts "Welcome to Coffee Quest!"
 
 
-
-
-
-
-
-
 def get_coffee_shop(region, food, ambience, beans)
 
 # west
